@@ -251,8 +251,7 @@
       <LinkLibraryDependencies>false</LinkLibraryDependencies>
     </ProjectReference>
     <PostBuildEvent>
-      <Command>copy "$(TargetDir)\*.dll" "..\Dependencies\bin\" /y
-copy "$(TargetDir)\*.lib" "..\Dependencies\lib\" /y
+      <Command>copy "$(TargetDir)\*.lib" "..\Dependencies\lib\" /y
 copy "$(TargetDir)\*.dll" "..\bin\debug\" /y
 copy "$(TargetDir)\*.dll" "..\bin\minsizerel\" /y
 copy "$(TargetDir)\*.dll" "..\bin\release\" /y
