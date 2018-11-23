@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zzip", "zzip.vcxproj", "{E59410D2-0F70-33FE-BF42-7C80938CE649}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zzipfseeko", "zzipfseeko.vcxproj", "{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.Debug|Win32.Build.0 = Debug|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.Release|Win32.ActiveCfg = Release|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.Release|Win32.Build.0 = Release|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{E59410D2-0F70-33FE-BF42-7C80938CE649}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.Debug|Win32.Build.0 = Debug|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.Release|Win32.ActiveCfg = Release|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.Release|Win32.Build.0 = Release|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{6B1F111F-CAB0-3ECF-8C6A-A821EA3AD61D}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C9D0DF1-641A-3254-A6FA-040598BE8992}
+	EndGlobalSection
+EndGlobal
